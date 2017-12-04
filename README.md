@@ -18,7 +18,7 @@
 
 ### Android官方培训课程中文版(v0.9.7)
 
-**Author：**[胡凯](https://github.com/kesenhoo) 等
+**Author：** [胡凯](https://github.com/kesenhoo) 等
 
 **Project Link：**
 
@@ -38,7 +38,7 @@
 
 ### JavaScript Garden（Java 秘密花园）
 
-**Author：**[Ivo Wetzel](http://stackoverflow.com/users/170224/ivo-wetzel) &  [张易江](http://stackoverflow.com/users/313758/yi-jiang)
+**Author：** [Ivo Wetzel](http://stackoverflow.com/users/170224/ivo-wetzel) &  [张易江](http://stackoverflow.com/users/313758/yi-jiang)
 
 **Project Link：**
 
@@ -55,7 +55,7 @@
 
 ### ECMAScript 6 入门
 
-**Author：**[阮一峰](http://www.ruanyifeng.com/blog/)
+**Author：** [阮一峰](http://www.ruanyifeng.com/blog/)
 
 **Read Online：**
 
@@ -69,7 +69,7 @@
 
 ### React.js
 
-**Author：**[胡子大哈](https://www.zhihu.com/people/hu-zi-da-ha)
+**Author：** [胡子大哈](https://www.zhihu.com/people/hu-zi-da-ha)
 
 **Project Link：**
 
@@ -101,7 +101,7 @@
 
 ### Elementary Algorithms（算法新解）
 
-**Author：**刘新宇
+**Author：** 刘新宇
 
 **Project Link：**
 
@@ -129,7 +129,7 @@
 
 ### Pro Git （第 2 版）
 
-**Author：**Scott Chacon & Ben Straub
+**Author：** Scott Chacon & Ben Straub
 
 **Project Link：**
 
@@ -155,7 +155,7 @@
 
 ### project-name
 
-**Author：**Someone
+**Author：** Someone
 
 **Project Link：**
 
