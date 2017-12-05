@@ -32,7 +32,7 @@
 
 > 以下从原书摘录：
 >
-> Google Android 团队在 2012 年的时候开设 了**Android Training **板块 - http://developer.android.com/training/index.html ，这些课程是学习 Android 应用开发的绝佳资料。我们通过 Github 发起开源协作翻译的项目，完成中文版的输出，欢迎大家传阅学习！
+> Google Android 团队在 2012 年的时候开设 了 **Android Training ** 板块 - http://developer.android.com/training/index.html ，这些课程是学习 Android 应用开发的绝佳资料。我们通过 Github 发起开源协作翻译的项目，完成中文版的输出，欢迎大家传阅学习！
 
 ## JavaScript
 
@@ -95,6 +95,22 @@
 
 ## Others
 
+### 正则表达式30分钟入门教程
+
+**Author：** [陆超](https://github.com/deerchao)
+
+**Project Link：**
+
+- cn：http://deerchao.net/tutorials/regex/regex.htm
+
+**Read Online：**
+
+- cn：http://deerchao.net/tutorials/regex/regex.htm
+
+**Introduce：**
+
+> 一个简单易懂的正则表达式入门教程，作者一直在维护更新。另外，作者还提供了一个测试和分析正则表达式的工具 [Regester](http://deerchao.net/tools/regester/index.htm) 。
+
 # 数据结构与算法
 
 ## 数据结构与算法
@@ -121,7 +137,7 @@
 > 本书中文版《算法新解》已出版：
 > <http://www.ituring.com.cn/book/1907>
 >
-> 本书提供了 C、C++、Haskell、Python、和Scheme/Lisp 的源代码作为实现的例子供读者参考。为了增加 Java 和 Scala 的例子代码，我们增加了一个名为 jvm 的分支。
+> 本书提供了 C、C++、Haskell、Python、和 Scheme/Lisp 的源代码作为实现的例子供读者参考。为了增加 Java 和 Scala 的例子代码，我们增加了一个名为 jvm 的分支。
 
 # 软件与工具
 
