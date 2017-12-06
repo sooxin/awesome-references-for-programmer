@@ -16,6 +16,22 @@
 
 ## Java
 
+### Java 程序员眼中的 Linux
+
+**Author：** [Judas.n](https://github.com/judasn)
+
+**Project Link：**
+
+- cn：https://github.com/judasn/Linux-Tutorial
+
+**Read Online：**
+
+- cn：https://github.com/judasn/Linux-Tutorial
+
+**Introduce：**
+
+> 介绍了部分 Linux 的入门知识，同时介绍了 Linux 上常用的服务的安装与搭建，对想要入门和使用 Linux 的人由很大的帮助，特别 Java 程序员。目前持续更新中。
+
 ### Android官方培训课程中文版(v0.9.7)
 
 **Author：** [胡凯](https://github.com/kesenhoo) 等
@@ -187,4 +203,4 @@
 
 **Introduce：**
 
-> This is a introduce.
+> This is a introduce。
